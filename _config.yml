@@ -8,14 +8,12 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: The Bits World                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: The Bits World  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  IT World
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://thebitsworld.github.io'
@@ -31,8 +29,8 @@ twitter:
   username: twitter_username            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Truong Quang Vu                        # it will shows as the copyright owner in Footer
+  email: quangvu1991@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # https://twitter.com/username      # change to your twitter homepage
